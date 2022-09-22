@@ -1,7 +1,7 @@
-#SGEH
+# SGEH
 This is the main repository for our ACCV2022 work.
 
-#References
+# References
 
 @inproceedings{lin2015semantics,
   title={Semantics-preserving hashing for cross-view retrieval},
